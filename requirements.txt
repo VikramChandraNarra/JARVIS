@@ -1,0 +1,4 @@
+qtpy
+Pillow
+pytesseract
+requests
